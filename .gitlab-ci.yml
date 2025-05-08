@@ -1,0 +1,10 @@
+stages:
+  - test
+
+test_password_generator:
+  image: python:3.10
+  stage: test
+  before_script:
+    - pip install -r requirements.txt
+  script:
+    - pytest
