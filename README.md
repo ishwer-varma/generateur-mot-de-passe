@@ -21,7 +21,7 @@ Il inclut des **tests automatisés** via `pytest` et une **intégration continue
 
 ---
 
-## 🧪 Lancer le script principal
+## Lancer le script principal
 
 Pour générer un mot de passe sécurisé directement depuis le terminal, exécute le script Python avec la commande suivante :
 
